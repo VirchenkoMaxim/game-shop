@@ -1,0 +1,44 @@
+
+header{
+    height: 60px;
+    background-color: #2f3641;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 97%;
+    
+}
+.container{
+    width: 90%;
+    height: inherit;
+    float: right;
+    display: grid;
+    grid-template-columns: 60px 1fr 270px;
+    line-height: 60px;
+    &__logo{
+        width: 60px;
+        height: 60px;
+    }
+    &__nav{
+        padding-left: 45%;
+        &-item{
+          
+        font-size: 20px;
+          display: inline;
+          margin-left: 20px;
+            a{
+                text-decoration: none;
+                color: white;
+                outline: none;
+                border: none;
+                outline-offset: none;
+            }
+            a:hover{
+                text-decoration: none;
+            } 
+        }    
+    }
+    &__find{
+        margin: 0 10px;
+    }
+}

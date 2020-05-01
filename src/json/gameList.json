@@ -1,0 +1,93 @@
+[
+    {
+        "id": "001",
+        "name": "Fallout 4",
+        "price": "18.99",
+        "title-img": "https://cdn.gabestore.ru/product/370x460_OxMAIlvb9QncM-FonekBa3tkg0n-wXA2.png",
+        "img": [
+            {
+                "url": "https://i.ytimg.com/vi/vl5p4HtBGxk/maxresdefault.jpg"
+            },
+            {
+                "url": "https://www.softkey.ua/upload/resize_cache/iblock/7c8/700_700_1/fallout-4-goty-9362.jpg"
+            },
+            {
+                "url": "https://www.softkey.ua/upload/resize_cache/iblock/57b/700_700_1/fallout-4-season-pass-3210.jpg"
+            },
+            {
+                "url": "https://u.kanobu.ru/editor/images/27/7105c87b-1f7f-4935-a03f-2d399cd3a4db.jpg"
+            }
+        ],
+        "has": true,
+        "about": " Война, война никогда не меняется Fallout 4 — новый проект Bethesda Softworks, создателей Fallout 3 и The Elder Scrolls V: Skyrim. Игра предлагает новую планку в жанре игр с открытым миром, собрав в себе самые передовые технологии нового поколения, становясь одним из самых амбициозных творений студии. Мы ждали Fallout 4 долго, очень долго. Теперь мы можем вновь окунутся в неповторимую атмосферу пост-апокалиптической Америки, наслаждаясь красивейшими пейзажами пустошей, увлекательными квестами и свободой самовыражения. Действие игры начинается в 2077 году, когда мир стоит на пороге ядерной войны. Вы отправляетесь со своей семьей в Убежище 111, где вас ожидает неприятная неожиданность: вас лишают ребенка и супруги/супруга, в то время как главный герой погружается в криогенный сон, не в силах им помочь. Спустя 200 лет вы пробуждаетесь и начинаете поиски своего сына. В своей новой игре Bethesda Softworks внесли большое количество нововведений, среди которых расширенный редактор персонажей, переработанная система стрельбы, улучшенная графика и строительство. Собирайте ресурсы и используйте их для создания оружия, техники и возведения новых поселений, в которых вы сможете заселять оставшихся выживших. Но помните: опасность ждет вас за каждым углом. Поэтому не отказывайтесь от помощи компаньонов. Широкие возможности игры позволяют игрокам заниматься тем, что им интереснее больше всего. Мы рекомендуем купить Fallout 4 не только заядлым фанатам RPG, но также и рядовым игрокам."
+    },
+    {
+        "id": "002",
+        "name": "Forza Horizon 4 ",
+        "price": "29.99",
+        "title-img": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg",
+        "img": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+            }
+        ],
+        "has": false,
+        "about": "Forza Horizon 4 — гоночная игра в жанре аркадного автосимулятора с открытым миром, разработанная компанией Playground Games в сотрудничестве с Turn 10 Studios под издательством Microsoft Studios для игровой консоли Xbox One и ПК от Microsoft. Является четвёртой основной частью в серии Forza Horizon и одиннадцатой в серии Forza. Игра была официально анонсирована Microsoft на конференции E3 2018, вместе с дебютным трейлером игры 10 июня 2018 года. Релиз игры состоялся 2 октября 2018 года"
+    },
+    {
+        "id": "003",
+        "name": "DOOM Eternal",
+        "price": "39.49",
+        "title-img": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg",
+        "img": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+            }
+        ],
+        "has": true,
+        "about": "Doom Eternal (стилизованно под DOOM Eternal) — компьютерная игра в жанре шутера от первого лица. Игра разработана компанией id Software, издателем выступила компания Bethesda Softworks. Анонс игры состоялся на выставке E3 2018. Выход игры состоялся 20 марта 2020 года на платформах Windows, PlayStation 4 и Xbox One. Doom Eternal является шестой основной игрой в серии Doom и прямым сиквелом компьютерной игры Doom 2016 года."
+    },
+    {
+        "id": "004",
+        "name": "DOOM Eternal",
+        "price": "53.99",
+        "title-img": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg",
+        "img": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+            }
+        ],
+        "has": false,
+        "about": "«Ведьмак 3: Дикая Охота» (польск. Wiedźmin 3: Dziki Gon) — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная польской студией CD Projekt RED по мотивам серии романов «Ведьмак» польского писателя Анджея Сапковского, выпущенная в 2015 году для Windows, PlayStation 4 и Xbox One. Игра является продолжением компьютерных игр «Ведьмак» и «Ведьмак 2: Убийцы королей», заключительной частью трилогии[13]."
+    }
+]

@@ -1,0 +1,59 @@
+
+.container__card{
+    
+    margin: 0 20px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,  minmax(200px, 1fr)) ;
+    grid-gap: 2em;
+    
+}
+
+.link{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+.card{
+    image-rendering: optimizeQuality;
+    image-rendering: auto ;
+    background-color: #fff;
+    transition: .1s;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    height: 350px;
+    padding: 10px;
+    text-align: center;
+    &__name{
+        
+        height: 40px;
+        line-height: 18px;
+        font-size: 18px;
+    }
+    &__img{
+        width: 180px;
+        height: 220px;
+       margin: 10px;
+    }
+    &__price{
+        color: green;
+        line-height: 20px;
+        font-size: 18px;
+    }
+    &__btn{
+        margin-top: 6px;
+        height: 30px;
+        width: 120px;
+        border-style: solid none;
+        border-radius: 6px;
+        background: linear-gradient(#F3AE0F, #E38916) #E38916;
+        transition: 0.2s; 
+        &:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; } 
+        &:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+      }  
+      
+      &:hover{
+        transform: scale(1.1);
+       
+
+      }
+ }

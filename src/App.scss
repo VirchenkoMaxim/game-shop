@@ -1,0 +1,26 @@
+
+
+.app{
+
+ background-color: #F5F5DC;
+    display: grid;
+    grid-template-columns: 20% 1fr 10%;
+    grid-template-areas: 
+    'header header header'
+    'nav main .'
+    'footer footer footer';
+}
+
+header{
+    
+    grid-area: header;
+}
+.main{
+    grid-area: main;
+}
+nav{
+    grid-area: nav;
+}
+footer{
+    grid-area: footer;
+}

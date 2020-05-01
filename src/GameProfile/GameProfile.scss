@@ -1,0 +1,26 @@
+.profile{
+   
+   &__head{
+       padding: 20px 30px;
+       display: flex;
+       justify-content: space-between;
+      
+       &-title{
+           font-size: 26px;
+           line-height: 26px;
+       }
+       &-avalible{
+           display: flex;
+        align-items: flex-end;
+    
+          line-height: 26px;
+        
+            img{
+              height: 26px;
+            }
+       }
+   }
+
+}
+
+

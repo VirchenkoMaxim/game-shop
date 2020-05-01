@@ -1,0 +1,37 @@
+[
+    {
+        "key": 201,
+        "name": "Action ",
+        "cheked": false
+    },
+    {
+        "key": 203,
+        "name": "Ques",
+        "cheked": false
+    },
+    {
+        "key": 204,
+        "name": "Logic",
+        "cheked": false
+    },
+    {
+        "key": 205,
+        "name": "Adventure",
+        "cheked": false
+    },
+    {
+        "key": 206,
+        "name": "RPG",
+        "cheked": false
+    },
+    {
+        "key": 207,
+        "name": "Sport",
+        "cheked": false
+    },
+    {
+        "key": 208,
+        "name": "FPS",
+        "cheked": false
+    }
+]
