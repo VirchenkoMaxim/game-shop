@@ -11,12 +11,12 @@ class GameProfile extends Component {
         let avaliable = () => {
             if (item.has) {
                 return (
-                    <div className="profile__head-avalible"><img src={avalibleIcon} alt="" />Is Avalible</div>
+                    <div className="area__head-avalible"><img src={avalibleIcon} alt="" />Is Avalible</div>
                 )
             }
             else {
                 return (
-                    <div className="profile__head-avalible"><img src={noAvalibleIcon} alt="" />Not Avalible</div>
+                    <div className="area__head-avalible"><img src={noAvalibleIcon} alt="" /><div>Not Avalible</div></div>
                 )
             }
         }
@@ -25,23 +25,26 @@ class GameProfile extends Component {
         let item = this.props.gameList[id - 1];
         return (
             <div className="profile">
-                <div className="profile__head">
-                    <div className="profile__head-title">{item.name}</div>
-                    {avaliable()}
+                <div className="profile__area area">
+                    <div className="area__head">
+                        <div className="area__head-title">{item.name}</div>
+                        {avaliable()}
+                    </div>
+                    <div className="area__about"></div>
+                    <div className="area__price" >${item.price}</div>
+                    <button className="area__btn">In garbage</button>
                 </div>
                 <div className="profile__slider"><SimpleImageSlider
                     style={{ margin: "0 auto" }}
                     width={800}
                     height={450}
                     images={item.img}
-                />
-                </div>
-                <div className="profile__price" > {item.price}</div>
-                <button className="profile__btn">In garbage</button>
+                /> </div>
                 <div className="profile__info">
-                    <div className="profile__info-title">Product Description</div>
+                    <span className="profile__info-title">Product Description</span>
                     <div className="profile__info-content">{item.about}</div>
                 </div>
+
             </div>
 
         )

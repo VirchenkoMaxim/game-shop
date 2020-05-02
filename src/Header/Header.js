@@ -11,7 +11,7 @@ export default class Header extends Component {
                     <img className="container__logo" src={logo} alt="logo" />
                     <ul className="container__nav">
                         <li className="container__nav-item"><Link to="/">Главная</Link></li>
-                        <li className="container__nav-item"><Link to="/products">Товар</Link></li>
+                        <li className="container__nav-item"><Link to="/goods">Товар</Link></li>
                         <li className="container__nav-item"><Link to="/about">О нас</Link></li>
                         <li className="container__nav-item"><Link to="#">Отзывы</Link></li>
                         <li className="container__nav-item"><Link to="#">Акции</Link></li>

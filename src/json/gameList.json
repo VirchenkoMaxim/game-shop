@@ -19,7 +19,7 @@
             }
         ],
         "has": true,
-        "about": " Война, война никогда не меняется Fallout 4 — новый проект Bethesda Softworks, создателей Fallout 3 и The Elder Scrolls V: Skyrim. Игра предлагает новую планку в жанре игр с открытым миром, собрав в себе самые передовые технологии нового поколения, становясь одним из самых амбициозных творений студии. Мы ждали Fallout 4 долго, очень долго. Теперь мы можем вновь окунутся в неповторимую атмосферу пост-апокалиптической Америки, наслаждаясь красивейшими пейзажами пустошей, увлекательными квестами и свободой самовыражения. Действие игры начинается в 2077 году, когда мир стоит на пороге ядерной войны. Вы отправляетесь со своей семьей в Убежище 111, где вас ожидает неприятная неожиданность: вас лишают ребенка и супруги/супруга, в то время как главный герой погружается в криогенный сон, не в силах им помочь. Спустя 200 лет вы пробуждаетесь и начинаете поиски своего сына. В своей новой игре Bethesda Softworks внесли большое количество нововведений, среди которых расширенный редактор персонажей, переработанная система стрельбы, улучшенная графика и строительство. Собирайте ресурсы и используйте их для создания оружия, техники и возведения новых поселений, в которых вы сможете заселять оставшихся выживших. Но помните: опасность ждет вас за каждым углом. Поэтому не отказывайтесь от помощи компаньонов. Широкие возможности игры позволяют игрокам заниматься тем, что им интереснее больше всего. Мы рекомендуем купить Fallout 4 не только заядлым фанатам RPG, но также и рядовым игрокам."
+        "about": "Fallout 4 is a post-apocalyptic role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth major installment in the Fallout series (eighth overall) and was released on Microsoft Windows, PlayStation 4, and Xbox One on November 10th, 2015, except in Japan, where it was released on December 17, 2015, due to the need to censor some footage and references to atomic war, while still keeping the plot intact. The player is the Sole Survivor of Vault 111, who emerges 210 years to the day and time after the Great War. Prior to this, there is a brief period of gameplay during the pre-War era showing the player living with their spouse and child. The game takes place in Boston, Massachusetts. Famous local landmarks like the Paul Revere Monument, the USS Constitution, as well as the Massachusetts State House with its unique golden dome, are included in the game world. Other notable locations that make an appearance in the game are Scollay Square, renamed Goodneighbor, Bunker Hill, and Fenway Park, which is renamed Diamond City. The events of Fallout 4 occur in 2287; a decade after Fallout 3 and six years after the events of Fallout: New Vegas."
     },
     {
         "id": "002",
@@ -28,20 +28,20 @@
         "title-img": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg",
         "img": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+                "url": "https://etalongame.com/wp-content/uploads/2018/12/forza-horizon-4-polnyj-spisok-mashin.jpg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+                "url": "https://images.techhive.com/images/article/2016/09/forza-horizon-3-9_21_2016-11_16_27-pm-100683915-orig.png"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+                "url": "https://3dnews.ru/assets/external/illustrations/2018/07/18/972808/Forza-Horizon-4_Autumn-Drive.png"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+                "url": "https://www.overclockers.ua/news/games/123055-Forza-Horizon-4-launch-trailer.jpg"
             }
         ],
         "has": false,
-        "about": "Forza Horizon 4 — гоночная игра в жанре аркадного автосимулятора с открытым миром, разработанная компанией Playground Games в сотрудничестве с Turn 10 Studios под издательством Microsoft Studios для игровой консоли Xbox One и ПК от Microsoft. Является четвёртой основной частью в серии Forza Horizon и одиннадцатой в серии Forza. Игра была официально анонсирована Microsoft на конференции E3 2018, вместе с дебютным трейлером игры 10 июня 2018 года. Релиз игры состоялся 2 октября 2018 года"
+        "about": "Forza Horizon 4 is a 2018 racing video game developed by Playground Games and published by Microsoft Studios.[1] It was released on 2 October 2018 on Xbox One and Microsoft Windows after being announced at Xbox's E3 2018 conference.[2][3] The game is set in a fictionalised representation of areas of Great Britain.[1][2][3] It is the fourth Forza Horizon title and eleventh instalment in the Forza series. The game is noted for its introduction of changing seasons to the series. Forza Horizon 4 is a racing video game set in an open world environment based in a fictionalised Great Britain, with regions that include condensed representations of Edinburgh, the Lake District (including Derwentwater), and the Cotswolds (including Broadway), among others, and features currently over 670 licensed cars. The game features a route creator which enables players to create their own races.[4] The game takes place in a synchronised shared world, compared to the AI-driven 'drivatars' from its predecessors, with each server supporting up to 72 players.[5] The game is also playable in offline mode.[5]"
     },
     {
         "id": "003",
@@ -50,44 +50,41 @@
         "title-img": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg",
         "img": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+                "url": "https://hsto.org/webt/wi/1h/5l/wi1h5l-xkt2qw9etw4mhthixuty.jpeg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+                "url": "https://i.playground.ru/p/KAUV4IwQh_XpMc4ggn3-yQ.jpeg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+                "url": "https://3dnews.ru/assets/external/illustrations/2020/03/11/1005715/01.jpg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/8/8c/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Doom_Eternal.jpg"
+                "url": "https://i0.wp.com/expert.com.ua/wp-content/uploads/2020/03/DOOM-Eternal.jpeg?fit=1280%2C720&ssl=1"
             }
         ],
         "has": true,
-        "about": "Doom Eternal (стилизованно под DOOM Eternal) — компьютерная игра в жанре шутера от первого лица. Игра разработана компанией id Software, издателем выступила компания Bethesda Softworks. Анонс игры состоялся на выставке E3 2018. Выход игры состоялся 20 марта 2020 года на платформах Windows, PlayStation 4 и Xbox One. Doom Eternal является шестой основной игрой в серии Doom и прямым сиквелом компьютерной игры Doom 2016 года."
+        "about": "Doom Eternal is a first person shooter video game developed by id Software and published by Bethesda Softworks. It is the fifth main game in the Doom series and a direct sequel to 2016's Doom, and was released on March 20, 2020, for Windows, PlayStation 4, Stadia and Xbox One, with a Nintendo Switch version planned for a release at a later date. The game received positive reviews, with praise for its campaign, graphics, level design, soundtrack and combat mechanics, while some disliked the game's increased focus on storytelling. Players once again take on the role of the Doom Slayer, an ancient warrior who battles the demonic forces of Hell, from a first-person perspective. The game continues its predecessor's emphasis on \"push-forward\" combat, encouraging the player to aggressively engage enemies in order to acquire health, ammo, and armor"
     },
     {
         "id": "004",
-        "name": "DOOM Eternal",
+        "name": "The Witcher",
         "price": "53.99",
         "title-img": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg",
         "img": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+                "url": "https://images.glavred.info/2020_03/1584376230-7600.jpg?r=958893"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+                "url": "https://i.pinimg.com/originals/83/3e/b6/833eb69e49fa7dc2aa87742031ee4408.jpg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+                "url": "https://www.gametech.ru/sadm_images/witchpass1219_base.jpg"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
-            },
-            {
-                "url": "https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg"
+                "url": "https://www.igroshop.com/images/thumbnails/1927/1080/detailed/4/Witcher_3_screen_5_fszu-00.jpg"
             }
         ],
         "has": false,
-        "about": "«Ведьмак 3: Дикая Охота» (польск. Wiedźmin 3: Dziki Gon) — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная польской студией CD Projekt RED по мотивам серии романов «Ведьмак» польского писателя Анджея Сапковского, выпущенная в 2015 году для Windows, PlayStation 4 и Xbox One. Игра является продолжением компьютерных игр «Ведьмак» и «Ведьмак 2: Убийцы королей», заключительной частью трилогии[13]."
+        "about": "The Witcher (Polish: Wiedźmin [ˈvʲɛd͡ʑmʲin]) is a 2007 action role-playing game developed by CD Projekt Red and published by Atari on Microsoft Windows and CD Projekt on OS X, based on the novel series of The Witcher by Polish author Andrzej Sapkowski, taking place after the events of the main saga.[4][5] The story takes place in a medieval fantasy world and follows Geralt of Rivia, one of a few traveling monster hunters who have supernatural powers, known as Witchers. The game's system of moral choices as part of the storyline was noted for its time-delayed consequences and lack of black-and-white morality. The game utilizes BioWare's proprietary Aurora Engine. In 2009, a console version, The Witcher: Rise of the White Wolf, was scheduled for release using an entirely new engine and combat system. However, it was suspended as a result of payment problems with console developers Widescreen Games.[6] Two sequels were released: The Witcher 2: Assassins of Kings in 2011 and The Witcher 3: Wild Hunt in 2015."
     }
 ]

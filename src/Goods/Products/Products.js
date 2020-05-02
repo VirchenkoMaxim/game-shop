@@ -5,8 +5,8 @@ import { Link } from "react-router-dom";
 class Products extends Component {
 
     render() {
-        // console.log(this.props);
-        let arr = this.props.gameList;
+        // console.log(this.props.gameList.gameList);
+        let arr = this.props.gameList.gameList;
         var card = arr.map((item, index) => {
             return (
                 <Link key={index} className="link" to={`/${index + 1}`}>
@@ -25,7 +25,7 @@ class Products extends Component {
                 <div className="container__card">
                     {card}
                 </div>
-            </main>
+            </main >
         )
     }
 }

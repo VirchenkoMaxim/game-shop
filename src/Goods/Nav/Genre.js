@@ -4,7 +4,8 @@ import React, { Component } from 'react';
 
 export default class Genre extends Component {
     render() {
-        let arr = this.props.genre;
+        // console.log(this.props.genre.genre.genre);
+        let arr = this.props.genre.genre.genre;
 
         var card = arr.map((item) => {
             return (

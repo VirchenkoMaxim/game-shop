@@ -9,10 +9,12 @@ import Genre from './Genre';
 
 export default class Nav extends Component {
     render() {
+
         return (
+
             <nav className="navigation">
                 <Range />
-                <Genre genre={this.props.genre} />
+                <Genre genre={this.props} />
             </nav>
         )
     }

@@ -1,26 +1,15 @@
-
-
-.app{
-
- background-color: #F5F5DC;
-    display: grid;
-    grid-template-columns: 20% 1fr 10%;
-    grid-template-areas: 
-    'header header header'
-    'nav main .'
-    'footer footer footer';
-}
-
 header{
+    height: 60px;
+    background-color: #2f3641;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 97%;
     
-    grid-area: header;
 }
 .main{
-    grid-area: main;
+   width: 96%;
+   margin: 0 auto;
 }
-nav{
-    grid-area: nav;
-}
-footer{
-    grid-area: footer;
-}
+
+
