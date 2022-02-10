@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pretty-checkbox": "^3.0.3",
     "rc-slider": "^9.2.4",
     "react-router": "^5.1.2",
